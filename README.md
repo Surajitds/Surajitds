@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Surajitds
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on  
-- 📫 How to reach me is through Ig-_surajitdeys 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ALP 
+- 📫 How to reach me is through mail ss4088@srmist.edu.in 
 
 <!---
 Surajitds/Surajitds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
