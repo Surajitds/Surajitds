@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Surajitds
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ALP 
 - 📫 How to reach me is through mail ss4088@srmist.edu.in 
 
 <!---
